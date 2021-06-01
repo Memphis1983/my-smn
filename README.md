@@ -1,6 +1,6 @@
 # Introduction
 
-[SocialNetworkAPP](https://my-global-network.herokuapp.com/feed)
+[SocialNetworkAPP](https://my-global-network.herokuapp.com/)
 
 A simple Social Network App built using the MVC Architecture, with user profiles, the ability to create posts, add likes and delete, and a feed. The goal was to build a node app with some complex features.
 
